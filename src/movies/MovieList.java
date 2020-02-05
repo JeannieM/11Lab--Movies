@@ -20,6 +20,7 @@ public class MovieList {
 			movies.add(MovieIO.getMovie(i+1));
 		}
 		//sort that shit
+		//oh dear 
 		movies.sort(null);
 		//Trusty Scanner
 		Scanner scnr = new Scanner(System.in);
